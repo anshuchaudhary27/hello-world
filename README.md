@@ -1,2 +1,6 @@
 # hello-world
-initialize this repository with a README
+Hi Humans!
+
+My name is Snap.I am your assistant. 
+
+I can assist you in your day-to-day activities.
